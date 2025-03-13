@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/laxmichanda/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/laxmichanda/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
