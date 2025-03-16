@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/laxmichanda/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/laxmichanda/leetcode/tree/master/2690-house-robber-iv) |
 ## Design
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/laxmichanda/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/laxmichanda/leetcode/tree/master/2690-house-robber-iv) |
 ## Counting
 |  |
