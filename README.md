@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/laxmichanda/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/laxmichanda/leetcode/tree/master/2690-house-robber-iv) |
+| [3430-count-days-without-meetings](https://github.com/laxmichanda/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Design
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/laxmichanda/leetcode/tree/master/0016-3sum-closest) |
 | [1970-sorting-the-sentence](https://github.com/laxmichanda/leetcode/tree/master/1970-sorting-the-sentence) |
+| [3430-count-days-without-meetings](https://github.com/laxmichanda/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
