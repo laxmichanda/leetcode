@@ -12,26 +12,16 @@ class Solution
 {
     public static ListNode findMid(ListNode h)
     {
+        if(h==null || h.next==null)
+        {
+            return h;
+        }
         ListNode slow=h;
-        int size=0;
-        while(slow!=null)
-        {
-            size++;
-            slow=slow.next;
-        }
-        slow=h;
-        if(size%2==0)
-        {
-            size=size/2-1;
-        }
-        else
-        {
-            size=size/2;
-        }
-        while(size>0)
+        ListNode fast=h;
+        while(fast.next!=null && fast.next.next!=null)
         {
             slow=slow.next;
-            size--;
+            fast=fast.next.next;
         }
         return slow;
     }
