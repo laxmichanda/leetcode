@@ -8,26 +8,55 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
-    public boolean isPalindrome(ListNode head) 
+class Solution 
+{
+    public static ListNode findMid(ListNode head)
     {
-        List<Integer> l=new ArrayList<>();
+        if(head==null || head.next==null)
+        {
+            return head;
+        }
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next!=null)
+        {
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+    public static ListNode rev(ListNode head)
+    {
         ListNode temp=head;
+        ListNode prev=null;
         while(temp!=null)
         {
-            l.add(temp.val);
-            temp=temp.next;
+            ListNode nn=temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=nn;
         }
-        int n=l.size();
-        int m=n/2;
-        
-            for(int i=0;i<m;i++)
+        return prev;
+    }
+    public boolean isPalindrome(ListNode head) 
+    {
+        ListNode temp=head;
+        if(temp==null || temp.next==null)
+        {
+            return true;
+        }
+        ListNode mid=findMid(temp);
+        ListNode sh=mid.next;
+        ListNode revsh=rev(sh);
+        while(revsh!=null)
+        {
+            if(head.val!=revsh.val)
             {
-                if(l.get(i)!=l.get(n-i-1))
-                {
-                    return false;
-                }
+                return false;
             }
-                return true;
+            revsh=revsh.next;
+            head=head.next;
+        }
+        return true;
     }
 }
