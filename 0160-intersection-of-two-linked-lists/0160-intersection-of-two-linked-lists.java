@@ -15,32 +15,20 @@ public class Solution {
         ListNode p1=headA;
         ListNode p2=headB;
         boolean found=false;
-       Stack<ListNode> s1=new Stack<>();
-       Stack<ListNode> s2=new Stack<>();
-       while(p1!=null)
-       {
-        s1.push(p1);
-        p1=p1.next;
-       }
-       while(p2!=null)
-       {
-        s2.push(p2);
-        p2=p2.next;
-       }
-       ListNode lp=null;
-       while(!s1.isEmpty() && !s2.isEmpty())
-       {
-        if(s1.peek()!=s2.peek())
+        HashSet<ListNode> h1=new HashSet<>();
+        while(p1!=null)
         {
-            return lp;
+            h1.add(p1);
+            p1=p1.next;
         }
-        else
+        while(p2!=null)
         {
-            lp=s1.peek();
-            s1.pop();
-            s2.pop();
+            if(h1.contains(p2))
+            {
+                return p2;
+            }
+            p2=p2.next;
         }
-       }
-        return lp;
+       return null; 
     }
 }
