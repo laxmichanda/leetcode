@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/laxmichanda/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/laxmichanda/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/laxmichanda/leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/laxmichanda/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 ## Divide and Conquer
 |  |
 | ------- |
