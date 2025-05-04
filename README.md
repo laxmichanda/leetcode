@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/laxmichanda/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/laxmichanda/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/laxmichanda/leetcode/tree/master/1656-count-good-triplets) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/laxmichanda/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/laxmichanda/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/laxmichanda/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
