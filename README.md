@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/laxmichanda/leetcode/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
 | [0303-range-sum-query-immutable](https://github.com/laxmichanda/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/laxmichanda/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/laxmichanda/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
