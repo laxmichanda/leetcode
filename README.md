@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/laxmichanda/leetcode/tree/master/1970-sorting-the-sentence) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/laxmichanda/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/laxmichanda/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/laxmichanda/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/laxmichanda/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/laxmichanda/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/laxmichanda/leetcode/tree/master/1656-count-good-triplets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/laxmichanda/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
 | ------- |
