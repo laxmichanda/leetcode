@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/laxmichanda/leetcode/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/laxmichanda/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/laxmichanda/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/laxmichanda/leetcode/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/laxmichanda/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
