@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/laxmichanda/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/laxmichanda/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/laxmichanda/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/laxmichanda/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
