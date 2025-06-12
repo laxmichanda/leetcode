@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/laxmichanda/leetcode/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/laxmichanda/leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/laxmichanda/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
