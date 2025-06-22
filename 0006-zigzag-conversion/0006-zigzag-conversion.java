@@ -1,10 +1,10 @@
 class Solution {
     public String convert(String s, int numRows) 
     {
-        if(numRows==1)
-        {
-            return s;
-        }
+        // if(numRows==1)
+        // {
+        //     return s;
+        // }
         List<List<Character>> temp=new ArrayList<>();
         for(int i=0;i<numRows;i++)
         {
@@ -22,11 +22,12 @@ class Solution {
             
             if(p==0)down=true;
             
-            else if(p==numRows-1)
+            if(p==numRows-1)
             {
               down=false;
             }
             p+=(down==true)?1:-1;
+            p=p%numRows;
             
         }
        StringBuilder st=new StringBuilder();
