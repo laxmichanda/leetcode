@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/laxmichanda/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/laxmichanda/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/laxmichanda/leetcode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/laxmichanda/leetcode/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/laxmichanda/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
