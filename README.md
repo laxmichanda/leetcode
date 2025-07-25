@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/laxmichanda/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/laxmichanda/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/laxmichanda/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/laxmichanda/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Design
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/laxmichanda/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/laxmichanda/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/laxmichanda/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/laxmichanda/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
