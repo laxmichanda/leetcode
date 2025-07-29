@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/laxmichanda/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/laxmichanda/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/laxmichanda/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/laxmichanda/leetcode/tree/master/2690-house-robber-iv) |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laxmichanda/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/laxmichanda/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/laxmichanda/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/laxmichanda/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/laxmichanda/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laxmichanda/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/laxmichanda/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/laxmichanda/leetcode/tree/master/2690-house-robber-iv) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/laxmichanda/leetcode/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/laxmichanda/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
