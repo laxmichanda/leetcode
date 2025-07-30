@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/laxmichanda/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/laxmichanda/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/laxmichanda/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/laxmichanda/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/laxmichanda/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/laxmichanda/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/laxmichanda/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/laxmichanda/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/laxmichanda/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
