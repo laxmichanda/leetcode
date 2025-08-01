@@ -1,25 +1,21 @@
 class Solution {
-    public List<List<Integer>> generate(int numRows) 
-    {
-        int n=numRows;
-        List<List<Integer>> ans=new ArrayList<>();
-        for(int i=1;i<=n;i++)
-        {
-            List<Integer> temp=new ArrayList<>();
-            for(int j=1;j<=i;j++)
-            {
-                temp.add(1);
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> ans = new ArrayList<>();
+        
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> row = new ArrayList<>();
+            
+            for (int j = 0; j <= i; j++) {
+                if (j == 0 || j == i) {
+                    row.add(1); // first and last elements are 1
+                } else {
+                    int val = ans.get(i - 1).get(j - 1) + ans.get(i - 1).get(j);
+                    row.add(val); // sum of two values above
+                }
             }
-            ans.add(temp);
-        } 
-        for(int i=2;i<n;i++)
-        {
-            for(int j=1;j<i;j++)
-            {
-                ans.get(i).set(j,ans.get(i-1).get(j-1)+ans.get(i-1).get(j));
-            }
+            ans.add(row);
         }
-        System.out.println(ans);
-        return ans;   
+        
+        return ans;
     }
 }
