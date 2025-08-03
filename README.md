@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/laxmichanda/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/laxmichanda/leetcode/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/laxmichanda/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/laxmichanda/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/laxmichanda/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/laxmichanda/leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/laxmichanda/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/laxmichanda/leetcode/tree/master/0179-largest-number) |
 | [0874-backspace-string-compare](https://github.com/laxmichanda/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/laxmichanda/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/laxmichanda/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/laxmichanda/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/laxmichanda/leetcode/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/laxmichanda/leetcode/tree/master/0179-largest-number) |
 | [1970-sorting-the-sentence](https://github.com/laxmichanda/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/laxmichanda/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/laxmichanda/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/laxmichanda/leetcode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/laxmichanda/leetcode/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/laxmichanda/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/laxmichanda/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
