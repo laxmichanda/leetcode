@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/laxmichanda/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/laxmichanda/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/laxmichanda/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/laxmichanda/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/laxmichanda/leetcode/tree/master/1656-count-good-triplets) |
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/laxmichanda/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/laxmichanda/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/laxmichanda/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/laxmichanda/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
