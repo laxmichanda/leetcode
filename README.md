@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/laxmichanda/leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/laxmichanda/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/laxmichanda/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/laxmichanda/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/laxmichanda/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/laxmichanda/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/laxmichanda/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/laxmichanda/leetcode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/laxmichanda/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/laxmichanda/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/laxmichanda/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
