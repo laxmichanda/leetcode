@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/laxmichanda/leetcode/tree/master/1656-count-good-triplets) |
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/laxmichanda/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/laxmichanda/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2308-divide-array-into-equal-pairs](https://github.com/laxmichanda/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/laxmichanda/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/laxmichanda/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/laxmichanda/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1899-count-items-matching-a-rule](https://github.com/laxmichanda/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/laxmichanda/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/laxmichanda/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/laxmichanda/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/laxmichanda/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/laxmichanda/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/laxmichanda/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/laxmichanda/leetcode/tree/master/0498-diagonal-traverse) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/laxmichanda/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/laxmichanda/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/laxmichanda/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/laxmichanda/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/laxmichanda/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/laxmichanda/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/laxmichanda/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
