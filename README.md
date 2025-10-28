@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/laxmichanda/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/laxmichanda/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
